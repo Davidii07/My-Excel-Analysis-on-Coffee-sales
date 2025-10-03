@@ -8,3 +8,4 @@ Total Money Made in 2025:$29,600.78
 Coffee Produced in 2024:2,604 units
 Coffee Produced in 2025:943 units
 Different Types of coffee Produced:8
+![Coffee Sales Dasboard](Coffee_sales_dashboard.png)
